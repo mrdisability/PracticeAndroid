@@ -1,5 +1,7 @@
 # PracticeAndroid
 
+## AndroidFirebase: https://github.com/thesamoanppprogrammer/AndroidFirebase
+
 Learning, practicing, and keeping up to date with Android with Kotlin. 
 - MVVM Architecture Components
 - ViewModels, LiveData, ViewBinding, DataBinding
